@@ -1,5 +1,3 @@
 this is a word.
 add a word
-nonono
-Creating a new branch is quick
-do not understand
+Creating a new branch is quick AND simple.
